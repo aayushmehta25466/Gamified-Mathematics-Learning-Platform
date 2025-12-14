@@ -4,7 +4,7 @@
 
 An innovative web-based educational platform that transforms mathematics learning for **Grade 4 students** through gamification. The platform combines interactive quizzes, educational games, progress tracking, and AI assistance to make mathematics engaging and effective.
 
-**Team Size:** 3 members | **Target:** Class 4 Students | **Tech:** Python Flask, SQLite, HTML/CSS/JS
+**Team Size:** 3 members | **Target:** Class 4 Students |
 
 ---
 
@@ -28,16 +28,6 @@ A comprehensive gamified learning platform featuring:
 - **📊 Progress Tracking** - Personalized dashboards with topic-wise analysis
 - **🏆 Gamification** - Points, badges, leaderboards, and achievement systems
 - **🤖 AI Chatbot** - 24/7 math assistance with step-by-step explanations
-
-## 📅 Implementation Roadmap
-
-**Phase 1:** Planning & Setup → **Phase 2:** Backend Development → **Phase 3:** Frontend Development → **Phase 4:** AI Chatbot Integration → **Phase 5:** Testing & Deployment
-
-
-
-## 🎓 Research Foundation
-
-Built on proven educational research in gamification (Clark et al., 2016), technology-enhanced mathematics education (Roschelle et al., 2010), and web-based learning effectiveness (Means et al., 2013).
 
 ---
 
