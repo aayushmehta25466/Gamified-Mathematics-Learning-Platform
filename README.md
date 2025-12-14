@@ -134,7 +134,7 @@ The platform serves students in grade 4 with age-appropriate content and difficu
 ### Development Tools
 - **Version Control:** Git & GitHub
 - **IDE:** Visual Studio Code, Visual Studio 2022
-- **Testing:** Jest for React components, Manual testing for backend
+- **Testing:** Manual testing for frontend and backend
 - **Documentation:** Markdown
 - **Project Management:** Notion
 
@@ -271,7 +271,7 @@ Technology-supported mathematics education has evolved from traditional drill-an
 Several studies have confirmed the effectiveness of web-based learning platforms in enhancing academic performance. A review by Means et al. (2013) found that students learning through online and blended platforms often perform better than those in traditional classroom-only settings. The research emphasizes the importance of interactivity, immediate feedback, and multimedia resources for effective online learning.
 
 ### Age-Appropriate Design
-Research in child-computer interaction emphasizes the importance of age-appropriate design in educational software. According to Read and Markopoulos (2013), effective learning platforms for children and adolescents should feature intuitive navigation, clear visual hierarchy, and content complexity that matches different developmental stages. This research supports designing scalable interfaces that adapt to learners from grade 4.
+Research in child-computer interaction emphasizes the importance of age-appropriate design in educational software. According to Read and Markopoulos (2013), effective learning platforms for children and adolescents should feature intuitive navigation, clear visual hierarchy, and content complexity that matches different developmental stages. This research supports designing interfaces specifically tailored for grade 4 learners.
 
 ---
 
