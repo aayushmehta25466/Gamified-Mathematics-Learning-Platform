@@ -29,33 +29,11 @@ A comprehensive gamified learning platform featuring:
 - **🏆 Gamification** - Points, badges, leaderboards, and achievement systems
 - **🤖 AI Chatbot** - 24/7 math assistance with step-by-step explanations
 
----
-
-## 🛠️ Technology Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Backend** | Python, Flask |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Database** | SQLite |
-| **AI** | Rule-based NLP with pattern matching |
-
----
-
 ## 📅 Implementation Roadmap
 
 **Phase 1:** Planning & Setup → **Phase 2:** Backend Development → **Phase 3:** Frontend Development → **Phase 4:** AI Chatbot Integration → **Phase 5:** Testing & Deployment
 
----
 
-## 📈 Success Metrics
-
-- ✅ Average session time > 15 minutes
-- ✅ 20% improvement in quiz scores
-- ✅ User satisfaction rating ≥ 4/5
-- ✅ System response time < 2 seconds
-
----
 
 ## 🎓 Research Foundation
 
