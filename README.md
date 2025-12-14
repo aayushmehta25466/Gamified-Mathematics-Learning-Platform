@@ -129,7 +129,8 @@ The platform serves students in grade 4 with age-appropriate content and difficu
 - **Future Enhancement:** React (optional)
 
 ### AI Component
-- Rule-based / AI-assisted chatbot (basic NLP)
+- Rule-based chatbot with basic Natural Language Processing (NLP)
+- Pattern matching for mathematics problem recognition
 
 ### Development Tools
 - **Version Control:** Git & GitHub
@@ -215,9 +216,9 @@ These measures provide a foundational level of security appropriate for an educa
 - **Low:** Database scalability limitations with SQLite
 
 ### Mitigation Strategies
-- Regular integration testing and peer code reviews
-- Continuous performance monitoring and optimization
-- Planning for future database migration
+- **For Integration Challenges:** Regular integration testing and peer code reviews
+- **For Performance Issues:** Continuous performance monitoring and optimization
+- **For Database Scalability:** Planning for future database migration
 
 ### Project Risks
 - **High:** Scope creep due to additional feature requests
@@ -225,9 +226,9 @@ These measures provide a foundational level of security appropriate for an educa
 - **Low:** Resource availability and technical expertise constraints
 
 ### Contingency Plans
-- Strict feature prioritization and phased implementation
-- Buffer time allocation in the development schedule
-- Access to external guidance for complex technical challenges
+- **For Scope Creep:** Strict feature prioritization and phased implementation
+- **For Timeline Delays:** Buffer time allocation in the development schedule
+- **For Resource Constraints:** Access to external guidance for complex technical challenges
 
 ---
 
