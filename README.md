@@ -12,7 +12,7 @@ An innovative web-based educational platform that transforms mathematics learnin
 
 Traditional mathematics education faces critical challenges:
 - Low student engagement and motivation
-- Limited personalized learning experiences  
+- Limited personalized learning experiences
 - Insufficient feedback and progress tracking
 - Lack of interactive learning resources
 
@@ -63,4 +63,4 @@ Built on proven educational research in gamification (Clark et al., 2016), techn
 
 ---
 
-**Made with ❤️ for enhancing mathematics education** | [Contribute](CONTRIBUTING.md)
+**Made with ❤️ for enhancing mathematics education**
